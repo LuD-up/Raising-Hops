@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="article">
+    <a href="{{ .Site.BaseURL }}/blog" class="article-link">← Revenir au blog</a>
+
+    <header class="article-header">
+        <h1>{{ .Title }}</h1>
+        <time>{{ .Date | time.Format ":date_long" }}</time>
+    </header>
+
+    {{ .Content }}
+
+</article>
+{{ end }}

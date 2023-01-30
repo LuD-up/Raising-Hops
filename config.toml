@@ -1,0 +1,21 @@
+baseURL = 'https://raisinghops.fr'
+title = 'Raising Hops'
+languageCode = 'fr-fr'
+enableRobotsTXT = true
+defaultContentLanguage = 'fr'
+disableKinds = ["taxonomy", "term"]
+paginate = '8'
+timeZone = 'Europe/Paris'
+safeHTML = false
+author = "Sylvain Bauvais"
+copyright = "© 2023"
+canonifyURLs = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        block = true
+    [markup.goldmark.renderer]
+      unsafe = true
