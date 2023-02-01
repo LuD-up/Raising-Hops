@@ -187,7 +187,7 @@ p ~ .btn {
     justify-content: center;
     align-items: center;
     max-width: max-content;
-    padding: 1.4rem 4.8rem;
+    padding: 1.6rem 4.8rem;
 }
 
 .btn-primary {
@@ -207,6 +207,7 @@ p ~ .btn {
     border: 2px solid var(--heading);
     border-radius: var(--border-radius);
     color: var(--heading);
+    padding: 1.4rem 4.8rem;
 }
 
 .btn-secondary:hover {
