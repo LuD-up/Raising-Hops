@@ -221,6 +221,7 @@ p ~ .btn {
 .main-header {
 	display: flex;
 	justify-content: center;
+    margin: 0 2.4rem;
 }
 
 .navigation {
@@ -228,7 +229,7 @@ p ~ .btn {
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: flex-start;
-	padding: 1.6rem 2.4rem;
+	padding: 1.6rem 0;
 	max-width: 120rem;
 	width: 100%;
 }
@@ -245,9 +246,9 @@ p ~ .btn {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	gap: 2rem;
+	gap: 4rem;
 	padding-left: 0;
-	margin: 8rem 0 4rem;
+	margin: 12rem 0 4rem;
 }
 
 .nav-item a:not(.btn) {
@@ -305,6 +306,7 @@ button svg {
 	.nav-list[hidden] {
 		display: flex;
 		flex-direction: row;
+        gap: 2.4rem;
 	}
 	
 	.nav-list {
@@ -370,7 +372,7 @@ main {
     max-height: auto;
 }
 
-.info {
+.hero-info, .info {
     max-width: 54.5rem;
 }
 
