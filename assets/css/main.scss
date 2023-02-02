@@ -70,6 +70,8 @@ b, strong {
 blockquote {
     font-size: 4rem;
     margin: 2.4rem 0;
+    letter-spacing: -0.2px;
+    font-style: italic;
 }
 
 figcaption {
@@ -490,6 +492,28 @@ main {
 .list time, article time {
     opacity: .8;
     font-size: 1.8rem;
+}
+
+/* About page */
+
+.about-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12rem;
+}
+
+.about-page .page-header {
+    margin-bottom: 0;
+}
+
+.about-page:last-child {
+    margin-bottom: 12rem;
+}
+
+.citation {
+    max-width: 53.5rem;
 }
 
 /* Article */
