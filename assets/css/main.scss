@@ -389,6 +389,28 @@ main {
     }
 }
 
+/* Horaires d'ouverture */
+
+.schedules {
+    margin-top: 4rem;
+    max-width: 48rem;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.row p {
+    font-weight: 600;
+}
+
+.opening-hours {
+    display: flex;
+    flex-direction: row;
+    gap: 3.2rem;
+}
+
 .contact {
     text-align: center;
 
