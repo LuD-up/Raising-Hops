@@ -7,15 +7,15 @@ draft: false
 
 Cela fait maintenant trois mois que je travaille quotidiennement au développement de mon projet en parallèle de mon CDI à L’abbaye.
 
-La création d'une feuille de route permet de se situer dans l'avancée du projet et connaitre les prochaines étapes de celui-ci. Bien cadrer un projet premet de progresser plus rapidement et dans l'ordre pour ne pas s'y perdre.
+La création d'une feuille de route permet de se situer dans l'avancée du programme et connaitre les prochaines étapes de celui-ci. Bien cadrer ses objectifs permet de progresser plus rapidement et dans l'ordre pour ne pas s'y perdre.
 
-Avec le revul, j'ai l'impression de ne pas avoir beaucoup avancé jusqu'à maintenant, mais la préparation en amont neccessaire à la bonne avancée du projet m'a prit beaucoup de temps que je compte regagner sur les prochaines étapes, qui seront décisives pour la suite.
+Avec le recul, j'ai l'impression de ne pas avoir beaucoup avancé jusqu'à maintenant, mais la préparation en amont nécessaire à la bonne avancée du projet m'a prit beaucoup de temps que je compte regagner sur les prochaines étapes, qui seront décisives pour la suite.
 
 Le mois de février annonce le commencement des démarches administratives, et surtout la rupture de mon contrat à l'Abbaye.
 
 Une amie graphiste travaille actuellement à la réalisation du logo, et un article sera publié pour présenter celui-ci ainsi que la charte graphique du site.
 
-La création du business plan est presque terminée, et la recherche active d'un local à commencé. En espérant que tout soit prêt pour une ouverture à la mi-mai !
+La création du business plan est presque terminée, et la recherche active d'un local a commencé. En espérant que tout soit prêt pour une ouverture à la mi-mai !
 
 ## La feuille de route
 
