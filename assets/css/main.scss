@@ -93,6 +93,7 @@ figcaption {
 a:not([class]) {
     color: var(--text);
     text-decoration-skip-ink: auto;
+    transition: ease-in-out .2s;
 }
 
 a:hover {
@@ -565,6 +566,26 @@ main {
     text-align: center;
 
     padding: 2.4rem;
+}
+
+.social-list {
+    list-style-type: none;
+    padding-left: 0;
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    margin-bottom: 4rem;
+}
+
+.social-list a {
+    display: flex;
+    align-items: center;
+    gap: .8rem;
+    text-decoration: none;
+}
+
+.social-list svg {
+    width: 4rem;
 }
 
 .copyright {
