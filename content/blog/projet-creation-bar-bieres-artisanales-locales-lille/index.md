@@ -1,6 +1,6 @@
 ---
-title: "Le Raising Hops : Mon projet de création de bar à bières artisanales"
-description: "Suivez-moi dans la création d'un bar à bières appelé le Raising Hops, situé au coeur de Lille pour faire découvrir la bière artisanale."
+title: "Le Raising Hops : Mon projet de création d'un bar à bières"
+description: "Suivez-moi dans la création d'un bar à bières artisanale appelé le Raising Hops, situé au coeur de Lille pour faire découvrir la bière locale."
 date: 2022-11-01T17:00:00Z
 draft: false
 ---

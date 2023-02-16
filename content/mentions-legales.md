@@ -95,7 +95,7 @@ Raising Hops – DPO, Sylvain Bauvais <br>
 
 Dans ce cas, l’Utilisateur doit indiquer les Données Personnelles qu’il souhaiterait que [https://raisinghops.fr](https://raisinghops.fr) corrige, mette à jour ou supprime, en s’identifiant précisément avec une copie d’une pièce d’identité (carte d’identité ou passeport).
 
-Les demandes de suppression de Données Personnelles seront soumises aux obligations qui sont imposées à [https://raisinghops.fr](https://raisinghops.fr) par la loi, notamment en matière de conservation ou d’archivage des documents. Enfin, les Utilisateurs de [https://raisinghops.fr](https://raisinghops.fr) peuvent déposer une réclamation auprès des autorités de contrôle, et notamment de la CNIL (https://www.cnil.fr/fr/plaintes).
+Les demandes de suppression de Données Personnelles seront soumises aux obligations qui sont imposées à [https://raisinghops.fr](https://raisinghops.fr) par la loi, notamment en matière de conservation ou d’archivage des documents. Enfin, les Utilisateurs de [https://raisinghops.fr](https://raisinghops.fr) peuvent déposer une réclamation auprès des autorités de contrôle, et notamment de la CNIL [https://www.cnil.fr/fr/plaintes](https://www.cnil.fr/fr/plaintes).
                  
 ### 6.3 Non-communication des données personnelles
 
