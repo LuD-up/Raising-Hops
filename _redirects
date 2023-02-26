@@ -1,0 +1,12 @@
+# Redirect with a 301
+
+
+# Redirect with a 410
+/blog/faith-in-eventually/                                      410
+/blog/faith-in-eventually/mentions-l%C3%A9gales.html            410
+/menu/mentions-l%C3%A9gales.html /mentions-legales              410
+/about/mentions-l%C3%A9gales.html                               410
+/mentions-l%C3%A9gales.html                                     410
+/blog/un-nouveau-d%C3%A9part/mentions-l%C3%A9gales.html         410
+/mentions-legales/mentions-l%C3%A9gales.html                    410
+/blog/mentions-l%C3%A9gales.html                                410

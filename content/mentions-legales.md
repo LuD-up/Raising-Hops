@@ -1,5 +1,5 @@
 ---
-title: "Mentions légales"
+title: "Mentions légales pour le site du Raising Hops"
 description: "Mentions légales et conditions d'utilisation du site Raising Hops."
 layout: page
 ---
