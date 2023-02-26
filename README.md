@@ -6,8 +6,8 @@
   Créé avec <a href="https://gohugo.io">Hugo</a>, hebergé par <a href="https://www.netlify.com/">Netlify</a> et <a href="https://plausible.io">Plausible</a> pour la mesure du trafic.
 </p>
 <p align="center">
-  <a href="https://app.netlify.com/sites/sylvain-bauvais/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/ffc2e49f-ef77-40b7-8904-751752268271/deploy-status" alt="Netlify Status" />
+  <a href="https://app.netlify.com/sites/raisinghops/deploys">
+    <img src="https://api.netlify.com/api/v1/badges/77871a00-27db-4c43-bd12-f8fc0f06bf79/deploy-status" alt="Netlify Status" />
   </a>
 </p>
 
