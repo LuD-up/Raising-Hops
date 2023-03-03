@@ -22,6 +22,4 @@
     <p class="copyright">
         {{ .Site.Copyright }} <a href="https://sylvain-bauvais.fr">Sylvain Bauvais</a> - <a href="/mentions-legales/">Mentions légales</a>
     </p>
-    {{ $js := resources.Get "js/main.js" | minify }}
-    <script src="{{ $js.Permalink }}" defer></script>
 </footer>

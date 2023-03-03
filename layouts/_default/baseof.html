@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="{{ .Permalink }}">
 
-    {{ $style := resources.Get "css/main.scss" | toCSS | minify }}
+    {{ $style := resources.Get "main.scss" | toCSS | minify }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
 
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
@@ -20,6 +20,8 @@
     {{ template "_internal/opengraph.html" . }}
     {{ template "_internal/twitter_cards.html" . }}
 
+    {{ $js := resources.Get "main.js" | minify }}
+    <script defer src="{{ $js.Permalink }}"></script>
     <script defer data-domain="raisinghops.fr" src="https://plausible.io/js/script.js"></script>
 </head>
 
