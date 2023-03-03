@@ -305,7 +305,7 @@ main {
 }
 
 .hero-title {
-    font-size: 9.6rem;
+    font-size: clamp(6.4rem, calc(3.27rem + 3.64vw), 9.6rem);
 }
 
 .hero, .services {
