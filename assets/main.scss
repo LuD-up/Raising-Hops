@@ -57,11 +57,11 @@ h1 {
 }
 
 h2 {
-    font-size: 3.2rem;
+    font-size: 4rem;
 }
 
 h3 {
-    font-size: 2rem;
+    font-size: 2.4rem;
     line-height: 1.5;
     margin: 2.4rem 0;
 }
@@ -313,6 +313,7 @@ main {
 }
 
 .image-text-block {
+    position: relative;
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
@@ -331,6 +332,10 @@ main {
     max-width: 54.5rem;
 }
 
+.star, .circle {
+    display: none;
+}
+
 @media screen and (min-width:1200px) {
     .image-text-block {
         flex-direction: row;
@@ -340,6 +345,33 @@ main {
 
     .reverse {
         flex-direction: row-reverse;
+    }
+
+    .star:first-of-type {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: -10%;
+    }
+
+    .star:last-of-type {
+        display: block;
+        position: absolute;
+        top: 80%;
+        left: 33%;
+    }
+
+    .hero-img {
+        position: relative;
+    }
+
+    .circle {
+        display: block;
+        position: absolute;
+        top: -12%;
+        right: 33%;
+        max-width: 24rem;
+        max-height: auto;
     }
 }
 
